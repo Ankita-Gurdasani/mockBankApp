@@ -1,0 +1,38 @@
+.mainDiv {
+    background-color: lightyellow;
+    height:80%;
+}
+.displayDetails {
+    table-layout: fixed;
+    width: 100%;
+    white-space: nowrap;
+}
+.displayDetails td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.ifsc {
+    width: 10%
+}
+.id {
+    width: 5%
+}
+.name {
+    width: 10%
+}
+.branch {
+    width: 10%
+}
+.address {
+    width:25%
+}
+.city {
+    width: 10%
+}
+.district {
+    width: 15%
+}
+.state {
+    width: 15%
+}
